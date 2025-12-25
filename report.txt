@@ -1,0 +1,5 @@
+Log Analysis Report
+Generated at: 2025-12-25 14:03:44
+----------------------------------------
+IP: 192.168.1.10 | Failed Attempts: 5 | Severity: MEDIUM
+IP: 192.168.1.10 | Failed Attempts: 5 | Severity: CRITICAL
